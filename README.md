@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ...
 
-## Project Requirements
+## 🚀Project Requirements
 
 ### Building a Data Warehouse (Data Engineering)
 
@@ -33,11 +33,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ...
 
-## License
+## 🛡License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution
 
-## About Me
+## 👩🏽About Me
 
 Hello There. I am Thuli, I am recent graduate who is building projects following amazing data creators.
 
