@@ -39,7 +39,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 👩🏽About Me
 
-Hello There. I am Thuli, I am recent graduate who is building projects following amazing data creators.
+Hello There. I am Thuli, a graduate who is building projects following amazing data creators to break into data engineering
 
 
 
